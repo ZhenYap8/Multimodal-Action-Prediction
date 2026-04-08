@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+torch
+scikit-learn
+torchvision
+mediapipe
+torchaudio
+pandas
