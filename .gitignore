@@ -1,3 +1,6 @@
 .venv/
 test-clips/
 video-clips/
+labels.csv
+test.csv
+train.csv
